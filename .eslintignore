@@ -8,3 +8,5 @@ coverage
 example
 vite.config.js
 README.md
+
+src/main.js

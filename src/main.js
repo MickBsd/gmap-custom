@@ -1,8 +1,10 @@
-import animateTitle from './features/animateTitle'
-import createBadge from './features/createBasge'
-import './styles/style.css'
+import animateTitle from './features/animateTitle';
+import createBadge from './features/createBasge';
+import './styles/style.css';
 
-console.log('Welcome to Vite + JS + Webflow!')
+//Début du script
 
-createBadge()
-animateTitle()
+//Fin du script
+
+createBadge();
+animateTitle();

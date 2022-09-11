@@ -2,7 +2,7 @@ function createBadge() {
   // Create the badge
   const badge = document.createElement('div')
   badge.classList.add('js-badge')
-  badge.innerText = 'It works!'
+  badge.innerText = 'Script Opérationnel !'
 
   // Add click envent to remove the badge from the DOM
   badge.addEventListener('click', (event) => {
